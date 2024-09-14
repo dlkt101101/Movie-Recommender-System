@@ -3,5 +3,5 @@ As an avid movie enthusiast, I've always been intrigued by the personalized reco
 
 The exploratory data analysis and model development can be found in the Jupyter Notebook "Movie Recommender System.ipynb" and the data is saved in the "data" folder.
 
-Cheers,
+Cheers,</br>
 Darren Lam Kin Teng
